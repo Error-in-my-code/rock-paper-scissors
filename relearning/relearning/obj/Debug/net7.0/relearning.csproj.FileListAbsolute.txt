@@ -1,0 +1,15 @@
+/Users/luke/Projects/relearning/relearning/bin/Debug/net7.0/relearning
+/Users/luke/Projects/relearning/relearning/bin/Debug/net7.0/relearning.deps.json
+/Users/luke/Projects/relearning/relearning/bin/Debug/net7.0/relearning.runtimeconfig.json
+/Users/luke/Projects/relearning/relearning/bin/Debug/net7.0/relearning.dll
+/Users/luke/Projects/relearning/relearning/bin/Debug/net7.0/relearning.pdb
+/Users/luke/Projects/relearning/relearning/obj/Debug/net7.0/relearning.csproj.AssemblyReference.cache
+/Users/luke/Projects/relearning/relearning/obj/Debug/net7.0/relearning.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luke/Projects/relearning/relearning/obj/Debug/net7.0/relearning.AssemblyInfoInputs.cache
+/Users/luke/Projects/relearning/relearning/obj/Debug/net7.0/relearning.AssemblyInfo.cs
+/Users/luke/Projects/relearning/relearning/obj/Debug/net7.0/relearning.csproj.CoreCompileInputs.cache
+/Users/luke/Projects/relearning/relearning/obj/Debug/net7.0/relearning.dll
+/Users/luke/Projects/relearning/relearning/obj/Debug/net7.0/refint/relearning.dll
+/Users/luke/Projects/relearning/relearning/obj/Debug/net7.0/relearning.pdb
+/Users/luke/Projects/relearning/relearning/obj/Debug/net7.0/relearning.genruntimeconfig.cache
+/Users/luke/Projects/relearning/relearning/obj/Debug/net7.0/ref/relearning.dll
